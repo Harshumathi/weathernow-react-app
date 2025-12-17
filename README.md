@@ -1,6 +1,6 @@
 # 🌤️ Weather Now (React)
 
-[Live Demo →](https://dlnswc-3000.csb.app/)
+[Live Demo →](https://instantweathercondition.netlify.app)
 
 <p align="center">
   <a href="https://dlnswc-3000.csb.app/" target="_blank" rel="noreferrer">
